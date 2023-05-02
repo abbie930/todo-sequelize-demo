@@ -15,10 +15,10 @@
     "operatorsAliases": false
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "username": "admin",
+    "password": 12345678,
+    "database": "production",
+    "host": "production.c1wr3ubabtzj.us-west-2.rds.amazonaws.com",
     "dialect": "mysql",
     "operatorsAliases": false
   }
